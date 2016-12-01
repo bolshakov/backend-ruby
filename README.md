@@ -23,5 +23,6 @@ Unique opportunity to become part of a remote agile team. You can work from anyw
 
 
 #### Contacts
-email: a.sergeyev@netronixgroup.com
-skype: alex.sergeyev
+
+* email: a.sergeyev@netronixgroup.com
+* skype: alex.sergeyev
